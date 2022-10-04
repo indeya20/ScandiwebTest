@@ -1,0 +1,142 @@
+.productlist{
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#add-product-btn{
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 70px;
+        padding: 10px 0;
+        background-color: #04aa6d;
+        color: white;
+        border-radius: 5px;
+        font-size: large;
+        margin-top: 1px;
+        margin-right: 190px;
+        position: absolute;
+        top: 20px;
+        right: 0;
+        box-shadow: 2px 3px #77a896
+    }
+
+    #add-product-btn:hover {
+               color: black;
+    }
+
+    #delete-product-btn {
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 150px;
+        padding: 10px 0;
+        background-color: #f44336;
+        color:white;
+        border-radius: 5px;
+        margin-top: 1px;
+        margin-right: 20px;
+        position: absolute;
+        top: 20px;
+        right: 0;
+        box-shadow: 2px 3px #df8078;
+    }
+
+    #delete-product-btn:hover {
+        color: black;
+    }
+
+
+
+.delete-checkbox{
+   float: left;
+   margin-top: 20px;
+   margin-left: 20px;
+   
+}
+#save-product-btn{
+    font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 70px;
+        padding: 10px 0;
+        background-color: #04aa6d;
+        color: white;
+        border-radius: 5px;
+        font-size: large;
+        margin-top: 1px;
+        margin-right: 130px;
+        position: absolute;
+        top: 20px;
+        right: 0;
+        box-shadow: 2px 3px #77a896
+}
+#cancel-product-btn{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    padding: 10px 0;
+    background-color: #f44336;
+    color:white;
+    border-radius: 5px;
+    margin-top: 1px;
+    margin-right: 20px;
+    position: absolute;
+    top: 20px;
+    right: 0;
+    box-shadow: 2px 3px #df8078;
+}
+
+.form{
+    padding:05px 20px;
+
+}
+
+label{
+    width: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    clear: left;
+    text-align: justify;
+    padding-right: 10px;
+    display: inline-block
+         
+}
+
+input{
+    padding: 4px;
+    margin: 4px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+select{
+    width: 200px;
+    padding: 4px;
+    margin: 5px;
+    font-size: 22px;
+    border-radius: 5px;
+    margin-left: 129px;
+}
+
+
+.addproduct{
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.productType{
+    display: none;
+}
+
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px bold;
+    position:fixed;
+    bottom:0;
+    
+}
